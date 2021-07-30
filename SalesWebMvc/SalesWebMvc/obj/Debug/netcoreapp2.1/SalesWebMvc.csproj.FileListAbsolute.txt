@@ -33,3 +33,4 @@ D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc
 D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
