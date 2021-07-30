@@ -38,3 +38,4 @@ D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc
 D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+D:\Backup SSD E\Curso .Net C#\Section 18 - Final Project\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
